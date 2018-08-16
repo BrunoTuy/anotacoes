@@ -1,1 +1,0 @@
-../adb/shake_gesture.MD
