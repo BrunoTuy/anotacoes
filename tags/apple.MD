@@ -1,0 +1,8 @@
+* [Alias GIT](../textos/git_alias.MD)
+* [Click e arrasta 3 dedos](../textos/apple_3dedos_click.MD)
+* [Definir variaveis de ambiente](../textos/apple_variaveis_ambiente.MD)
+* [Drive USB para VirtualBox](../textos/apple_drive_usb_virtualbox.MD)
+* [Liberar espaço usando pelo XCode](../textos/apple_liberar_espaco_xcode.MD)
+* [Preferências placa de rede no Mac OSX](../textos/apple_preferencia_placa_rede.MD)
+* [Unidade remota sshFS](../textos/apple_sshfs.MD)
+* [Verificar modelo do processador](../textos/apple_verificar_processador.MD)

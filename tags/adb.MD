@@ -1,6 +1,6 @@
 * [Abrir URL](../textos/adb_abrir_url.MD)
-* [adb wifi](../textos/adb_wifi.MD)
-* [DEBUG react-native](../textos/adb_debug_react-native.MD)
+* [DEBUG reac-native](../textos/adb_debug_react-native.MD)
 * [Listar aplicações instaladas](../textos/adb_listar_aplicacoes_instaladas.MD)
 * [Matar conexões ativas](../textos/adb_matar_conexoes.MD)
 * [Shake Gesture](../textos/shake_gesture.MD)
+* [adb wifi ](../textos/adb_wifi.MD)
